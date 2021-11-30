@@ -26,7 +26,6 @@ require (
 	github.com/hashicorp/go-envparse v0.0.0-20190703193109-150b3a2a4611 // indirect
 	github.com/hashicorp/go-getter v1.4.0 // indirect
 	github.com/hashicorp/go-hclog v0.10.0
-	github.com/hashicorp/go-plugin v1.0.1 // indirect
 	github.com/hashicorp/hcl2 v0.0.0-20191002203319-fb75b3253c80 // indirect
 	github.com/hashicorp/nomad v0.10.1
 	github.com/hashicorp/nomad/api v0.0.0-20191203164002-b31573ae7206 // indirect
@@ -36,7 +35,7 @@ require (
 	github.com/opencontainers/runc v1.0.0-rc8.0.20190611121236-6cc515888830 // indirect
 	github.com/opencontainers/selinux v1.3.1 // indirect
 	github.com/seccomp/libseccomp-golang v0.9.1 // indirect
-	github.com/shirou/gopsutil v2.19.11+incompatible // indirect
+	github.com/shirou/gopsutil v3.21.10+incompatible // indirect
 	github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/vbatts/tar-split v0.11.1 // indirect
